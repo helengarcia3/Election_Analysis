@@ -6,7 +6,7 @@ We have succesfully helped Seth and Tom submit the election audit results to the
 the additional questions the election commission has requested.
 
 
-## Election-Audit Results<img width="448" alt="Deliverable #1" src="https://user-images.githubusercontent.com/107590196/202808073-dc625072-188b-43ff-a765-a19e19d8c1fa.png">
+## Election-Audit Results
 
 
 - How many votes were cast in this congressional election?
